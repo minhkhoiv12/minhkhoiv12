@@ -46,7 +46,7 @@ const ikismail = {
 
 ## 🎧 Favorite Song
 
-[![Spotify](https://github.com/minhkhoiv12/redmifa/blob/master/mvp3.gif)](https://zingmp3.vn/album/An-Nut-Nho-Tha-Giac-Mo-Single-Son-Tung-M-TP/6BD0WA86.html)
+[![Spotify](https://github.com/minhkhoiv12/redmifa/blob/master/song.gif)](https://zingmp3.vn/album/An-Nut-Nho-Tha-Giac-Mo-Single-Son-Tung-M-TP/6BD0WA86.html)
 
 ## 👨‍💻 Github Stats
 
