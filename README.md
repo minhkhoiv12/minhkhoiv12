@@ -28,7 +28,6 @@ const ikismail = {
   code: ["Javascript"],
   askMeAbout: ["web dev", "app dev"],
   technologies: {
-    mobileApp: ["React-Native", "Ionic"],
     frontEnd: {
       js: ["React", "Vue (Basic)"],
       css: ["tailwindcss (Basic)"],
@@ -38,7 +37,6 @@ const ikismail = {
     },
     databases: ["mongo", "mysql", "sqlserver"],
     containers: ["Docker"],
-    misc: ["Firebase", "IOT", "RaspberryPi"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
 };
