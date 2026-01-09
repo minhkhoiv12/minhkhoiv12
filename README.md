@@ -1,6 +1,6 @@
 # Hi, I'm Khoi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 Let me set the records straight. Rafael Nadal is the GOAT and I will not hear otherwise!
 
@@ -15,7 +15,7 @@ Let me start by saying this: Software development is a powerful tool for shaping
 Now that we have that out of the way, let me tell you a bit about myself <img src="https://raw.githubusercontent.com/minhkhoiv12/minhkhoiv12/master/smario.gif" width="35" />
 
 - 🖥️ I’m currently a student at Ho Chi Minh City University of Education (HCMUE), majoring in Software Technology.
-- 🖨️ I’m particularly interested in backend development and cloud technologies, focusing on creating systems that can handle high-performance workloads and ensure seamless user experiences.
+- 🖨️ I’m particularly interested in FullStack development, focusing on creating systems that can handle high-performance workloads and ensure seamless user experiences.
 - 📚 In my free time, I like exploring open-source projects, contributing to coding communities, and staying updated with the latest in software architecture.
 - 🎮 When I’m not coding, I enjoy playing video games that require strategic thinking and teamwork
 - 🚴‍♂️ I’m also an outdoor enthusiast, and I love going on long bike rides around the city to clear my mind and recharge my creativity.
