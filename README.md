@@ -25,7 +25,7 @@ Now that we have that out of the way, let me tell you a bit about myself <img sr
 
 ```javascript
 const ikismail = {
-  code: ["Javascript"],
+  code: ["Java, Javascript(ES6+)"],
   askMeAbout: ["web dev", "app dev"],
   technologies: {
     frontEnd: {
@@ -33,7 +33,8 @@ const ikismail = {
       css: ["tailwindcss (Basic)"],
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["express"],
+      java: ["Spring boot"]
     },
     databases: ["mongo", "mysql", "sqlserver"],
     containers: ["Docker"],
